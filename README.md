@@ -1,2 +1,1 @@
-# git_hands_on
-// ここに名前をかいてね
+#july july july
